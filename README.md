@@ -60,6 +60,5 @@ Content cell 1 | Content cell 2
 Content column 1 | Content column 2
 
 Issue References:
-#1
-github-flavored-markdown#1
-defunkt/github-flavored-markdown#1
+issuen#1
+garrett-freeman/Hellow-World#1
