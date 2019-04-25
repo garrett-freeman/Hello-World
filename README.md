@@ -60,5 +60,5 @@ Content cell 1 | Content cell 2
 Content column 1 | Content column 2
 
 Issue References:
-issue#1
-garrett-freeman/Hello-World#1
+issue#2
+garrett-freeman/Hello-World#2
