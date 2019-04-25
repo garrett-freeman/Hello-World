@@ -61,4 +61,4 @@ Content column 1 | Content column 2
 
 Issue References:
 issuen#1
-garrett-freeman/Hellow-World#1
+garrett-freeman/Hello-World#1
