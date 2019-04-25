@@ -61,4 +61,4 @@ Content column 1 | Content column 2
 
 Issue References:
 issue#2
-garrett-freeman/Hello-World#2
+https://github.com/garrett-freeman/Hello-World/issues
