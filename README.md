@@ -26,8 +26,8 @@ __Still Yelling__
 *Now I'm yelling in **Italian** 
 
 Images:
-http://github.com - automatic!
-[GitHub](http://github.com)
+https://en.wikipedia.org/wiki/File:Shrek_(character).png - automatic!
+
 
 Links
 ![GitHub Logo](/images/logo.png)
